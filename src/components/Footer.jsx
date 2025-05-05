@@ -59,7 +59,7 @@ const Footer = () => {
           </div>
         </div>
 
-        <div className="border-t border-stone-700 mt-8 pt-6 text-center text-stone-400">
+        <div className="border-t border-stone-700 mt-8 pt-6 text-center text-stone-400">  
         </div>
       </div>
     </footer>

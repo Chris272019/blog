@@ -305,7 +305,7 @@ const Home = () => {
                 <div className="text-center p-8">
                   <MapPin className="w-12 h-12 text-emerald-500 mx-auto mb-4" />
                   <p className="text-stone-600">Map visualization coming soon</p>
-                  <p className="text-sm text-stone-500 mt-2">Please add your Google Maps API key to .env file</p>
+                  <p className="text-sm text-stone-500 mt-2">Coming Soon</p>
                 </div>
               </div>
             )}
